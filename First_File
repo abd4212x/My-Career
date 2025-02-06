@@ -9,5 +9,19 @@ Console.WriteLine("Quran Translation");
 Console.WriteLine("PAk Study");
 Console.WriteLine("English");
 Console.WriteLine("Urdu");
-
+Console.WriteLine("Semester 1 Subjects");
+Console.WriteLine("Calculus and Analytical Geometry");
+Console.WriteLine("Applied Physics");
+Console.WriteLine("EHS");
+Console.WriteLine("ITS");
+Console.WriteLine("Programming");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Semester 2 Subjects");
+Console.WriteLine("SCM");
+Console.WriteLine("SDLC");
+Console.WriteLine("OOP");
+Console.WriteLine("Deiscrete structures");
+Console.WriteLine("Quran translation");
+Console.WriteLine("Functional English");
+Console.WriteLine("Probability and Statistics");
 
