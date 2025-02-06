@@ -1,2 +1,13 @@
 Console.WriteLine("Muhammad Abdullah Mahmood");
 Console.WriteLine("24-ST-003");
+Console.WriteLine("FSC subjects");
+Console.WriteLine("Biology");
+Console.WriteLine("Chemistry");
+Console.WriteLine("Physics");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Quran Translation");
+Console.WriteLine("PAk Study");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+
+
